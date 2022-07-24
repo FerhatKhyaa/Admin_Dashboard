@@ -1,0 +1,68 @@
+﻿@model Admin_Panel_Olusturma.Entities.ReferansKategorileri
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+
+    <section class="content">
+        <div class="container-fluid">
+            <!-- Small boxes (Stat box) -->
+            <h1>Düzenle</h1>
+
+            <div class="card card-primary">
+                <div class="card-header">
+                    <h3 class="card-title">Kategoriyi Düzenle</h3>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-md-4">
+                        <form asp-action="Edit">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input type="hidden" asp-for="Id" />
+                            <div class="form-group">
+                                <label asp-for="ReferansAdi" class="control-label"></label>
+                                <input asp-for="ReferansAdi" class="form-control" />
+                                <span asp-validation-for="ReferansAdi" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Durum" class="control-label"></label>
+                                <select asp-for="Durum" class="form-control">
+                                        <option value="1">Yayında</option>
+                                        <option value="0">Pasif</option>
+                                    </select>
+                                <span asp-validation-for="Durum" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ReferansId" class="control-label"></label>
+                                <select asp-for="ReferansId" class="form-control" asp-items="ViewBag.ReferansId">
+                                    <option value="">Üst Kategori Yok</option>
+                                </select>
+                                <span asp-validation-for="ReferansId" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" value="Kaydet" class="btn btn-primary" />
+                            </div>
+                        </form>
+
+                        <div>
+                            <a class="btn btn btn-info" asp-action="Index">Listeye Geri Dön</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+    </section>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

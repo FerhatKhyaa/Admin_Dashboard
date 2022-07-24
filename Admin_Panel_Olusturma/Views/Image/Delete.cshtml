@@ -1,0 +1,66 @@
+﻿@model Admin_Panel_Olusturma.Entities.Image
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+
+    <section class="content">
+        <div class="container-fluid">
+            <h1>Sil</h1>
+
+            <h3>Silmek İstediğinize Emin Misiniz?</h3>
+            <div>
+                <h4>Resim Sil</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Durum)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Durum)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Baslik)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @(Model.Durum==1?"Yayında":"Pasif")
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Resim)
+                    </dt>
+                    <dd class="col-sm-10">
+                        <img src="~/GaleriImage/@Model.Resim" width="100px" />
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.KisaAciklama)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.KisaAciklama)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Icerik)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Icerik)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.GaleriKategori)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.GaleriKategori.KategoriAdi)
+                    </dd>
+                </dl>
+
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="Id" />
+                    <input type="submit" value="Delete" class="btn btn-danger" /> |
+                    <a asp-action="Index">Listeye Geri Dön</a>
+                </form>
+
+            </div>
+        </div>
+    </section>
+</div>

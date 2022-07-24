@@ -1,0 +1,204 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Admin_Panel_Olusturma
+build_property.RootNamespace = Admin_Panel_Olusturma
+build_property.ProjectDir = C:\Users\ferha\Desktop\MVC\Admin_Panel_Olusturma\Admin_Panel_Olusturma\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ferha\Desktop\MVC\Admin_Panel_Olusturma\Admin_Panel_Olusturma
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/BlogKategorileri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ0thdGVnb3JpbGVyaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/BlogKategorileri/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ0thdGVnb3JpbGVyaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/BlogKategorileri/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ0thdGVnb3JpbGVyaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/BlogKategorileri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ0thdGVnb3JpbGVyaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/BlogKategorileri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ0thdGVnb3JpbGVyaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Bloglar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ2xhclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Bloglar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ2xhclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Bloglar/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ2xhclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Bloglar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ2xhclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Bloglar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ2xhclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/GaleriKategorileri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS2F0ZWdvcmlsZXJpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/GaleriKategorileri/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS2F0ZWdvcmlsZXJpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/GaleriKategorileri/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS2F0ZWdvcmlsZXJpXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/GaleriKategorileri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS2F0ZWdvcmlsZXJpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/GaleriKategorileri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS2F0ZWdvcmlsZXJpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Image/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Image/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Image/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Image/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Image/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/ReferansKategorileri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNLYXRlZ29yaWxlcmlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/ReferansKategorileri/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNLYXRlZ29yaWxlcmlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/ReferansKategorileri/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNLYXRlZ29yaWxlcmlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/ReferansKategorileri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNLYXRlZ29yaWxlcmlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/ReferansKategorileri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNLYXRlZ29yaWxlcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Referanslar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNsYXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Referanslar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNsYXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Referanslar/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNsYXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Referanslar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNsYXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Referanslar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNsYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/UrunKategorileri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/UrunKategorileri/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/UrunKategorileri/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/UrunKategorileri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/UrunKategorileri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkthdGVnb3JpbGVyaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Urunler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Urunler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Urunler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Urunler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Urunler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Admin_Panel_Olusturma/Admin_Panel_Olusturma/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6yekzqynqk

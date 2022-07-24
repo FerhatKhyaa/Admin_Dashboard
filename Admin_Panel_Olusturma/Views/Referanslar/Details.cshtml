@@ -1,0 +1,61 @@
+﻿@model Admin_Panel_Olusturma.Entities.Referanslar
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+
+
+    <section class="content">
+        <div class="container-fluid">
+            <div class="mt-3">
+                <h4>Referanslar Düzenle</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Durum)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @(Model.Durum==1?"Yayında":"Pasif")
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Baslik)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Baslik)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Resim)
+                    </dt>
+                    <dd class="col-sm-10">
+                        <img src="~/ReferansImage/@Model.Resim" width="100px"/>
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.KisaAciklama)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.KisaAciklama)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Icerik)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Icerik)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.ReferansKategori)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.ReferansKategori.ReferansAdi)
+                    </dd>
+                </dl>
+            </div>
+            <div>
+                <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </section>
+</div>
