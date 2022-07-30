@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CItdftRDSGgQEx7V/hNLUVJanErNF0yEoNiEG1bflCAxLZARcHQuRfCoR1U95oZO+BNS7C8xvXTDpi1ie0noQw==",
+  "dgSpecHash": "V8Ezt+IrI9euO4r+9+IMzFK9L2cQQNf7UEm1+h8S7C3vbWFXNNJtOK3blYMt20BMhlZuV0gcHJEeGsIGnYviKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj",
+  "projectFilePath": "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Dashboard\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ferha\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

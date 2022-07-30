@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Kargo_Bitirme_Projesi
+build_property.RootNamespace = Kargo_Bitirme_Projesi
+build_property.ProjectDir = C:\Users\ferha\Desktop\MVC\Kargo_Bitirme_Projesi\Kargo_Bitirme_Projesi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ferha\Desktop\MVC\Kargo_Bitirme_Projesi\Kargo_Bitirme_Projesi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Calisanlar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Calisanlar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Calisanlar/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Calisanlar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Calisanlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/KargoIslemleri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FyZ29Jc2xlbWxlcmlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/KargoIslemleri/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FyZ29Jc2xlbWxlcmlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/KargoIslemleri/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FyZ29Jc2xlbWxlcmlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/KargoIslemleri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FyZ29Jc2xlbWxlcmlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/KargoIslemleri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FyZ29Jc2xlbWxlcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Musteriler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaWxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Musteriler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaWxlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Musteriler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaWxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Musteriler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaWxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Musteriler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaWxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Shared/_LayoutUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferha/Desktop/MVC/Kargo_Bitirme_Projesi/Kargo_Bitirme_Projesi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5w2woob85d

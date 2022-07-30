@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj": {}
+    "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Dashboard\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj": {
+    "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Dashboard\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj",
+        "projectUniqueName": "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Dashboard\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj",
         "projectName": "Admin_Panel_Olusturma",
-        "projectPath": "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj",
+        "projectPath": "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Dashboard\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma.csproj",
         "packagesPath": "C:\\Users\\ferha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Panel_Olusturma\\obj\\",
+        "outputPath": "C:\\Users\\ferha\\Desktop\\MVC\\Admin_Panel_Olusturma\\Admin_Dashboard\\Admin_Panel_Olusturma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

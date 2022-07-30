@@ -1,0 +1,59 @@
+﻿@model Kargo_Bitirme_Projesi.Entities.Calisanlar
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Calisanlar</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CalisanAdi" class="control-label"></label>
+                <input asp-for="CalisanAdi" class="form-control" />
+                <span asp-validation-for="CalisanAdi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CalisanSoyadi" class="control-label"></label>
+                <input asp-for="CalisanSoyadi" class="form-control" />
+                <span asp-validation-for="CalisanSoyadi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CalisanTelefon" class="control-label"></label>
+                <input asp-for="CalisanTelefon" class="form-control" />
+                <span asp-validation-for="CalisanTelefon" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CalisanYas" class="control-label"></label>
+                <input asp-for="CalisanYas" class="form-control" />
+                <span asp-validation-for="CalisanYas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CalisanAdres" class="control-label"></label>
+                <input asp-for="CalisanAdres" class="form-control" />
+                <span asp-validation-for="CalisanAdres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CalisanResim" class="control-label"></label>
+                <input asp-for="CalisanResim" class="form-control" />
+                <span asp-validation-for="CalisanResim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
